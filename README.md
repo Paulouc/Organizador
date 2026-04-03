@@ -12,6 +12,21 @@ Clasifica los archivos por tipo (documentos, imágenes, música, videos, program
 
 ---
 
+## 🖼️ Ejemplo visual
+
+### Ejecución
+![Menú ejecución](img/limpiador2.jpg)
+
+### Carpeta antes de organizar
+![Antes](img/Limpiador1.jpg)
+
+### Carpeta después de organizar
+![Después](img/limpiador4.jpg)
+
+### Mensajes en consola
+![Consola](img/limpiador3.jpg)
+
+
 ## ⚙️ Tecnologías
 - Python 3  
 - Librerías estándar: `hashlib`, `pathlib`, `datetime`  
